@@ -1,16 +1,10 @@
 # expense_tracker
 
-A new Flutter project.
+Its a practice project to learn basic concepts of Flutter and Dart Language.
+Its my first dart/flutter app that I put in GitHub.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![expense_tracker_1](https://github.com/yasinatagun/ExpenseTracker/assets/4943407/81d7e322-2e88-4447-a3ba-08b4c30e339a)
+![expense_traker_2](https://github.com/yasinatagun/ExpenseTracker/assets/4943407/1b663cd0-c759-4b3e-a87d-c0f6e9b4e13f)
+![expense_tracker_3](https://github.com/yasinatagun/ExpenseTracker/assets/4943407/157a791b-b950-40a2-9c61-1c5d647733e4)
